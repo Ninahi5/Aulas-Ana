@@ -6,6 +6,6 @@ fun main() {
 }
 
 fun multiplicar(x: Int, y: Int): Int{
-      return x - y
+      return x + y
 
 }
